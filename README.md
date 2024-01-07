@@ -9,4 +9,5 @@
 ### Se XP for entre 5001 e 8000 = Platina 
 ### Se XP for entre 8001 e 9000 = Ascendente
 ### Se XP for entre 9001 e 10000 = Imortal
-### Se XP for maior ou igual a 10001 = Radiante
+### Se XP for maior que 10000 e menor ou igual a 1000000 = Radiante
+### Se XP for maior que 1000000 = Grão Mestre Felipão 
