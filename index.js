@@ -3,12 +3,11 @@ function somaValores(a, b){
     return a + b
 }
 console.log("Iniciando o programa...")
-console.log("Fazendo contas automaticamente:")
+console.log("Escrevendo meu nome novamente")
 
-var a = 10
-var b = 5
+let name = "Luiz Felipe"
 
-console.log("A soma dos valores aleatórios eh: " + somaValores(a, b))
+console.log("Meu nome é " + name)
 
 
 
